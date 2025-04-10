@@ -168,12 +168,3 @@ To avoid charges:
 
 ---
 
-## 📞 Support
-
-For issues or improvements, feel free to [create an issue](https://github.com/varunbgit/AWSDemo/issues) or contact [Varun B](https://github.com/varunbgit).
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
